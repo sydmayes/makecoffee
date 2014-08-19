@@ -1,0 +1,32 @@
+main {
+	margin: 0 auto;
+	max-width: 42em;
+}
+
+h1 {
+	font-family: Montserrat;
+	font-size: 36px;
+	margin-top: 50px;
+}
+
+h2 {
+	font-family: Montserrat;
+	font-size: 32px;
+	margin-top: 50px;
+}
+
+li {
+	font-family: merriweather;
+	font-size: 22px;
+
+}
+
+
+p {
+	font-family: merriweather;
+	font-size: 22px;
+}
+
+#steps{
+	margin-bottom: 100px;
+}
